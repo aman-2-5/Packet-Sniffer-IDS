@@ -120,15 +120,18 @@ packet-sniffer-ids/
 
 ### IDS Terminal Output
 
-![IDS Output](screenshots/ids_output.png) 
+![IDS Output](https://github.com/user-attachments/assets/6c1606ba-ed15-40b0-89c8-e27572b2cfe7)
+
 
 ### Traffic Log File
 
-![Traffic Log](screenshots/traffic_log.png)
+![Traffic Log](https://github.com/user-attachments/assets/e2fa0eed-472e-4128-b07d-9425a802d9f1)
+
 
 ### Wireshark PCAP Analysis
 
-![Wireshark Capture](screenshots/wireshark_capture.png)
+![Wireshark Capture](https://github.com/user-attachments/assets/883cf501-8db1-4f53-aa58-d7880959445f)
+
 
 ---
 
