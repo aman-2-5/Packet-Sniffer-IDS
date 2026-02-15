@@ -90,7 +90,7 @@ ping google.com
 ### 🔍 Port Scan Test
 
 ```bash
-nmap -sT 127.0.0.1
+nmap -sT <ip-address>
 ```
 
 ### 🌐 Web Traffic
